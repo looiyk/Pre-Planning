@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Estate Planning</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="Hello_Customer_Main">Richard Anthony</string>
+    <string name="Android_std_txt_veiw">Android Studio</string>
+    <string name="app_bar_flowers">Flowers</string>
+    <string name="app_bar_casket">Casket</string>
+    <string name="app_bar_venue">Venue</string>
+    <string name="app_bar_mortician">Funeral Director</string>
+    <string name="App_bar_title">Family Services</string>
+    <string name="second_group_app_bar">Share Arrangements</string>
+    <string name="second_group_app_bar_documents">Personal Documents</string>
+    <string name="app_logo_side_bar">RBC Estate Services</string>
+    <string name="Next_of_kin">Beth May</string>
+    <string name="next_of_kin_prompt">Next of kin:</string>
+    <string name="emerg_contact_prompt">Emergency Contact:</string>
+    <string name="emerg_contact">George Martin</string>
+    <string name="funeral_arrangements_title">Funeral Arranements</string>
+    <string name="funeral_services_app_bar">Funeral Services</string>
+    <string name="morticion_string">Funeral Director</string>
+    <string name="flowers_flower_page">Flowers</string>
+    <string name="casket_casket_main">Casket</string>
+    <string name="venue_venue_page">Venue</string>
+    <string name="rbc_website_app_bar">rbc.com</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main22">Main22Activity</string>
+    <string name="title_activity_main23">Main23Activity</string>
+    <string name="title_activity_main24">Main24Activity</string>
+    <string name="Pine_urn">Pine Cones and Blossoms Brass Urn</string>
+    <string name="Pewter_Urn">Diamond Cut Pewter Urn</string>
+    <string name="Church_desc">The lovely Knox Presbyterian in Belmore Ontario would make a perfect venue for your loved ones to pay their last respects.</string>
+    <string name="rev_joe">Reverend Joe Nichols</string>
+    <string name="pas_gary">Pastor Gary Evans</string>
+    <string name="imam_matt">Imam Matt Kohli</string>
+</resources>
